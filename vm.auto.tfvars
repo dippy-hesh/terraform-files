@@ -1,0 +1,1 @@
+machine_typ = "e2-micro"

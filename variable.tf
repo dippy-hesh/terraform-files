@@ -8,7 +8,7 @@ variable "gcp_project" {
 
 
 # create a gcp region
-variable "gcp_region" {
+variable "gcp_region1" {
     type = string
     description = "it is just a region"
     default = "us-central1"
